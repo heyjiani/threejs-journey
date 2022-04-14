@@ -1,0 +1,1 @@
+### Notes & exercises from Bruno Simon's Three.js journey course ☘️
